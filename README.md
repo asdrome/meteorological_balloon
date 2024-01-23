@@ -1,0 +1,1 @@
+Sonda meteorologica instrumentada con sensores de temperatura para toma de datos a diferentes alturas y envío de datos en tiempo real. Instrumento de prácticas para los temas de meteorología del área de agronomía de la Universidad Autónoma Chapingo
